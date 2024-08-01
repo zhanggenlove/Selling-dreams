@@ -18,4 +18,4 @@ Read me
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/fd/34/f0fd345d-6947-ac74-c1f2-b475efc328ee/d3b403a5-f54f-4e14-9d3f-f28a5b1148a6_screenshot1.png/1286x0w.webp)
 
-[【Moocat输入法】](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/fd/34/f0fd345d-6947-ac74-c1f2-b475efc328ee/d3b403a5-f54f-4e14-9d3f-f28a5b1148a6_screenshot1.png/1286x0w.webp)
+[【Moocat输入法】](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/c3/b1/e7c3b175-e0db-ebf7-134a-61e8e9be01a5/ca5479e0-e76c-4df3-aecb-39ff1ebd03fd_10.png/460x0w.webp)
